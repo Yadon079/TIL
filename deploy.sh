@@ -18,7 +18,7 @@ rm -rf TIL
 # echo 'www.example.com' > CNAME
 
 git add .
-git commit -m "$*"
+git commit -m "deploy"
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
