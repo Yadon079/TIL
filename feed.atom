@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yadon079.github.io/TIL/</id>
     <title>개발자 한선우</title>
-    <updated>2020-08-17T05:31:59.853Z</updated>
+    <updated>2020-08-17T05:50:23.270Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://yadon079.github.io/TIL/"/>
     <link rel="self" href="https://yadon079.github.io/TIL/feed.atom"/>
@@ -48,20 +48,20 @@
         <summary type="html"><![CDATA[2020년 2월 회고 입니다.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020년 3월 회고]]></title>
-        <id>https://yadon079.github.io/TIL/Review/2020-year/03-March/</id>
-        <link href="https://yadon079.github.io/TIL/Review/2020-year/03-March/">
-        </link>
-        <updated>2020-03-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2020년 3월 회고 입니다.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2020년 2분기 회고]]></title>
         <id>https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/</id>
         <link href="https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/">
         </link>
         <updated>2020-08-11T13:42:00.000Z</updated>
         <summary type="html"><![CDATA[개발자 황준일의 2020년 2분기 회고입니다.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020년 3월 회고]]></title>
+        <id>https://yadon079.github.io/TIL/Review/2020-year/03-March/</id>
+        <link href="https://yadon079.github.io/TIL/Review/2020-year/03-March/">
+        </link>
+        <updated>2020-03-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2020년 3월 회고 입니다.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020년 4월 회고]]></title>
@@ -104,6 +104,14 @@
         <summary type="html"><![CDATA[Vuepress로 만든 문서를 github page에 배포하는 방법에 대해 기록한 문서이다.]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vuepress 시작하기]]></title>
+        <id>https://yadon079.github.io/TIL/Vuepress/Starter/</id>
+        <link href="https://yadon079.github.io/TIL/Vuepress/Starter/">
+        </link>
+        <updated>2020-01-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[현재 페이지에서 다루고 있는 내용은 vuepress로 TIL 문서를 만들면서 알게된 내용들을 정리한 것이다.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VuePress 테마 설정]]></title>
         <id>https://yadon079.github.io/TIL/Vuepress/Theme/</id>
         <link href="https://yadon079.github.io/TIL/Vuepress/Theme/">
@@ -118,14 +126,6 @@
         </link>
         <updated>2020-01-07T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[Vuepress에 Utterances(GitHub Issue를 이용한 댓글)를 적용하는 방법에 대해 기술합니다.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vuepress 시작하기]]></title>
-        <id>https://yadon079.github.io/TIL/Vuepress/Starter/</id>
-        <link href="https://yadon079.github.io/TIL/Vuepress/Starter/">
-        </link>
-        <updated>2020-01-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[현재 페이지에서 다루고 있는 내용은 vuepress로 TIL 문서를 만들면서 알게된 내용들을 정리한 것이다.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[markdown-it-plantuml]]></title>

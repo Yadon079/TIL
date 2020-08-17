@@ -4,7 +4,7 @@
         <title>개발자 한선우</title>
         <link>https://yadon079.github.io/TIL/</link>
         <description>Today I leanred</description>
-        <lastBuildDate>Mon, 17 Aug 2020 05:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2020 05:50:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://yadon079.github.io/TIL/feed.atom" rel="self" type="application/rss+xml"/>
@@ -28,8 +28,6 @@
             <guid>https://yadon079.github.io/TIL/Review/2020-year/01-First-Quarter/</guid>
             <pubDate>Wed, 01 Apr 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[2020년 1분기 회고 입니다.]]></description>
-            <enclosure url="https://user-images.githubusercontent.com/18749057/80858428-2ca0b700-8c94-11ea-8478-a0b8c665243d.png">
-            </enclosure>
         </item>
         <item>
             <title><![CDATA[2020년 1월 회고]]></title>
@@ -46,22 +44,18 @@
             <description><![CDATA[2020년 2월 회고 입니다.]]></description>
         </item>
         <item>
-            <title><![CDATA[2020년 3월 회고]]></title>
-            <link>https://yadon079.github.io/TIL/Review/2020-year/03-March/</link>
-            <guid>https://yadon079.github.io/TIL/Review/2020-year/03-March/</guid>
-            <pubDate>Tue, 31 Mar 2020 13:00:00 GMT</pubDate>
-            <description><![CDATA[2020년 3월 회고 입니다.]]></description>
-            <enclosure url="https://user-images.githubusercontent.com/18749057/80858554-d54f1680-8c94-11ea-9227-39d1c34e6196.png">
-            </enclosure>
-        </item>
-        <item>
             <title><![CDATA[2020년 2분기 회고]]></title>
             <link>https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/</link>
             <guid>https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/</guid>
             <pubDate>Tue, 11 Aug 2020 13:42:00 GMT</pubDate>
             <description><![CDATA[개발자 황준일의 2020년 2분기 회고입니다.]]></description>
-            <enclosure url="https://user-images.githubusercontent.com/18749057/89799319-4772a980-db68-11ea-8c89-02751f863561.png">
-            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[2020년 3월 회고]]></title>
+            <link>https://yadon079.github.io/TIL/Review/2020-year/03-March/</link>
+            <guid>https://yadon079.github.io/TIL/Review/2020-year/03-March/</guid>
+            <pubDate>Tue, 31 Mar 2020 13:00:00 GMT</pubDate>
+            <description><![CDATA[2020년 3월 회고 입니다.]]></description>
         </item>
         <item>
             <title><![CDATA[2020년 4월 회고]]></title>
@@ -69,8 +63,6 @@
             <guid>https://yadon079.github.io/TIL/Review/2020-year/04-April/</guid>
             <pubDate>Fri, 01 May 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[2020년 4월 회고 입니다.]]></description>
-            <enclosure url="https://user-images.githubusercontent.com/18749057/80866090-dea5a680-8cc7-11ea-88c2-a3bca2e2dd35.png">
-            </enclosure>
         </item>
         <item>
             <title><![CDATA[2020년 5월 회고]]></title>
@@ -78,8 +70,6 @@
             <guid>https://yadon079.github.io/TIL/Review/2020-year/05-May/</guid>
             <pubDate>Sun, 31 May 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[2020년 5월 회고 입니다.]]></description>
-            <enclosure url="https://yadon079.github.io/TIL/./2.png">
-            </enclosure>
         </item>
         <item>
             <title><![CDATA[2020년 6월 회고]]></title>
@@ -87,8 +77,6 @@
             <guid>https://yadon079.github.io/TIL/Review/2020-year/06-June/</guid>
             <pubDate>Sun, 12 Jul 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[2020년 6월 회고 입니다.]]></description>
-            <enclosure url="https://user-images.githubusercontent.com/18749057/86334105-bb778300-bc87-11ea-804c-1abf82170b6b.png">
-            </enclosure>
         </item>
         <item>
             <title><![CDATA[2020년 7월 회고]]></title>
@@ -96,8 +84,6 @@
             <guid>https://yadon079.github.io/TIL/Review/2020-year/07-July/</guid>
             <pubDate>Mon, 10 Aug 2020 12:21:00 GMT</pubDate>
             <description><![CDATA[2020년 7월 회고 입니다.]]></description>
-            <enclosure url="https://user-images.githubusercontent.com/18749057/89118668-5a3f0b80-d4e2-11ea-825d-9909b0026de0.png">
-            </enclosure>
         </item>
         <item>
             <title><![CDATA[github page에 배포하기]]></title>
@@ -105,6 +91,15 @@
             <guid>https://yadon079.github.io/TIL/Vuepress/Deploy/</guid>
             <pubDate>Mon, 06 Jan 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[Vuepress로 만든 문서를 github page에 배포하는 방법에 대해 기록한 문서이다.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vuepress 시작하기]]></title>
+            <link>https://yadon079.github.io/TIL/Vuepress/Starter/</link>
+            <guid>https://yadon079.github.io/TIL/Vuepress/Starter/</guid>
+            <pubDate>Thu, 02 Jan 2020 13:00:00 GMT</pubDate>
+            <description><![CDATA[현재 페이지에서 다루고 있는 내용은 vuepress로 TIL 문서를 만들면서 알게된 내용들을 정리한 것이다.]]></description>
+            <enclosure url="https://yadon079.github.io/TIL/./1.jpg">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[VuePress 테마 설정]]></title>
@@ -122,15 +117,6 @@
             <pubDate>Tue, 07 Jan 2020 22:00:00 GMT</pubDate>
             <description><![CDATA[Vuepress에 Utterances(GitHub Issue를 이용한 댓글)를 적용하는 방법에 대해 기술합니다.]]></description>
             <enclosure url="https://yadon079.github.io/TIL/./8.jpg">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Vuepress 시작하기]]></title>
-            <link>https://yadon079.github.io/TIL/Vuepress/Starter/</link>
-            <guid>https://yadon079.github.io/TIL/Vuepress/Starter/</guid>
-            <pubDate>Thu, 02 Jan 2020 13:00:00 GMT</pubDate>
-            <description><![CDATA[현재 페이지에서 다루고 있는 내용은 vuepress로 TIL 문서를 만들면서 알게된 내용들을 정리한 것이다.]]></description>
-            <enclosure url="https://yadon079.github.io/TIL/./1.jpg">
             </enclosure>
         </item>
         <item>
