@@ -16,87 +16,46 @@ next: false
 
 ## Posts
 
-### Vuepress
-
-- [Vuepress 시작하기](/Vuepress/Starter/)
-- [Vuepress 테마설정](/Vuepress/Theme/)
-- [github page에 배포하기](/Vuepress/Deploy/)
-- [markdown-it-plantuml](/Vuepress/Plantuml/)
-- [Vuepress + Utterances](/Vuepress/Utterances/)
-
 ### Book Review
 
-- 스프링 입문을 위한 객체지향의 원리와 이해
+- 매 달 한권의 책 읽고 리뷰하기
 
-  - [00 - 책 소개](/Book/OOP-Principle/00-Intro/)
-  - [01 - 사람을 사랑한 기술](/Book/OOP-Principle/01-Loved-Human/)
-  - [02 - 언어로서의 자바(작성 중)](/Book/OOP-Principle/02-Java-As-PL/)
-  - [03 - 자바와 객체지향(작성 예정)](/Book/OOP-Principle/03-Java-As-OOP/)
-  - [04 - 확장된 객체지향(작성 예정)](/Book/OOP-Principle/04-Extended-By-Java/)
-  - [05 - SOLID 원칙(작성 예정)](/Book/OOP-Principle/05-SOLID/)
-  - [06 - 디자인 패턴(작성 예정)](/Book/OOP-Principle/06-Design-Pattern/)
-  - [07 - Spring Triangle(작성 예정)](/Book/OOP-Principle/07-Spring-Triangle/)
+  - [1월의 책 - ](/Blog/Book-Review/2020y/01-Jan./)
+  - [2월의 책 - ](/Blog/Book-Review/2020y/02-Jan./)
+  - [3월의 책 - ](/Blog/Book-Review/2020y/03-Jan./)
+  - [4월의 책 - ](/Blog/Book-Review/2020y/04-Jan./)
+  - [5월의 책 - ](/Blog/Book-Review/2020y/05-Jan./)
+  - [6월의 책 - ](/Blog/Book-Review/2020y/06-Jan./)
+  - [7월의 책 - ](/Blog/Book-Review/2020y/07-Jan./)
 
 ### JAVA
 
 - JVM 이해하기(예정)
-- Reflection API(예정)
-- Byte Code 조작(예정)
-- Proxy(예정)
-- Annotation Processor(예정)
-
-### 개발환경
-
-_Gradle_
-
-- [GradleWrapper](/Gradle/GradleWrapper/)
 
 ### Online Lecture Review
 
-- 함수형 프로그래밍과 ES6(예정)
-- The Java, 코드를 조작하는 다양한 방법(예정)
 - 예제로 배우는 스프링 입문(예정)
 
 ## 공부해야할 것
 
 ### 코어
 
-- V8 Engine
 - JVM
 
 ### 개발환경 및 운영
 
-- jenkins
 - docker
-- aws
+- AWS
 - Kubernetes
-- Sentry
-- logging
-- pipeline
 - gradle
-- webpack
-
-### 개발 방법론
-
-- Object-Oriented Programming
-  - Design Pattern
-  - OOP Framework
-- Functional Programming
-  - RxJS
-  - RxJava
-- DDD(Domain-Driven Development)
-- TDD(Test-Driven Development)
-- BDD(Behavior-Driven Development)
 
 ### 언어 및 프레임워크
 
-- golang
-- kotlin
-- javascript
+- Kotlin
+- JavaScript
   - React
-- Python
-  - Django
-  - Flask
+- Java
+  - Spring
 
 ## 2020 목표
 
@@ -110,19 +69,10 @@ _Gradle_
     - ~~4월~~ `실패`
     - ~~5월~~ `실패`
     - ~~6월~~ `실패`
-    - 7월
-      - 팟캐스트 나는 프로그래머다
-      - 코어 자바스크립트
-      - 인사이드 자바스크립트
-      - 부의 추월차선 (읽는 중)
+    - ~~7월~~ `실패`
   - PPP 시리즈 읽어보기
-    - 밑바닥 부터 만드는 컴퓨팅 시스템
     - 클린 아키텍쳐
-    - 프로그래밍 심리학
-    - 실용주의 프로그래머
     - 클린 코드
-    - 테스트 주도 개발
-    - 생각하는 프로그래밍
 
 ## 2020년 회고
 
