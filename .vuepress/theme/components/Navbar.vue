@@ -11,7 +11,7 @@
           >
         </figure>
         <div ref="siteName">
-          <strong>개발자 황준일</strong>
+          <strong>개발자 한선우</strong>
           <em>Today I Learned</em>
         </div>
       </router-link>
