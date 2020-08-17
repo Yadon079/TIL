@@ -1,4 +1,6 @@
-const Algo = '/Algorithm'
+const Algo = `/Algorithm`
+const Boj = `${Algo}/BOJ`
+const Prog = `${Algo}/Programmers`
 const Blog = `/Blog`
 const BookRe = `${Blog}/Book-Review`
 const Book2020 = `${BookRe}/2020y`
@@ -34,8 +36,16 @@ module.exports = [
   {
     title: 'Algorithm',
     children: [
-      { title: 'BOJ', path: `${Algo}/BOJ` },
-      { title: 'Programmers', path: `${Algo}/Programmers` }
+      { title: 'BOJ',
+        children: [
+          '1000',
+        ].map(v => `${Boj}/${v}`)
+      },
+      { title: 'Programmers',
+        children: [
+          '직사각형-별찍기',
+      ].map(v => `${Prog}/${v}`)
+      }
     ]
   },
   {
