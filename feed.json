@@ -3,20 +3,8 @@
     "title": "개발자 한선우",
     "home_page_url": "https://yadon079.github.io/TIL/",
     "feed_url": "https://yadon079.github.io/TIL/feed.json",
-    "description": "Today I leanred",
+    "description": "Today I Leanred",
     "items": [
-        {
-            "id": "https://yadon079.github.io/TIL/Algorithm/BOJ/",
-            "url": "https://yadon079.github.io/TIL/Algorithm/BOJ/",
-            "title": "JAVA |",
-            "date_modified": "2020-08-17T15:00:00.000Z"
-        },
-        {
-            "id": "https://yadon079.github.io/TIL/Algorithm/Programmers/",
-            "url": "https://yadon079.github.io/TIL/Algorithm/Programmers/",
-            "title": "JAVA |",
-            "date_modified": "2020-08-17T15:00:00.000Z"
-        },
         {
             "id": "https://yadon079.github.io/TIL/Blog/Book-Review/2020y/01-Jan./",
             "url": "https://yadon079.github.io/TIL/Blog/Book-Review/2020y/01-Jan./",
@@ -45,6 +33,13 @@
             "date_modified": "2020-02-29T13:00:00.000Z"
         },
         {
+            "id": "https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/",
+            "url": "https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/",
+            "title": "2020년 2분기 회고",
+            "summary": "개발자 황준일의 2020년 2분기 회고입니다.",
+            "date_modified": "2020-08-11T13:42:00.000Z"
+        },
+        {
             "id": "https://yadon079.github.io/TIL/Review/2020-year/03-March/",
             "url": "https://yadon079.github.io/TIL/Review/2020-year/03-March/",
             "title": "2020년 3월 회고",
@@ -57,13 +52,6 @@
             "title": "2020년 4월 회고",
             "summary": "2020년 4월 회고 입니다.",
             "date_modified": "2020-05-01T13:00:00.000Z"
-        },
-        {
-            "id": "https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/",
-            "url": "https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/",
-            "title": "2020년 2분기 회고",
-            "summary": "개발자 황준일의 2020년 2분기 회고입니다.",
-            "date_modified": "2020-08-11T13:42:00.000Z"
         },
         {
             "id": "https://yadon079.github.io/TIL/Review/2020-year/05-May/",

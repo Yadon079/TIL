@@ -3,23 +3,11 @@
     <channel>
         <title>개발자 한선우</title>
         <link>https://yadon079.github.io/TIL/</link>
-        <description>Today I leanred</description>
-        <lastBuildDate>Mon, 17 Aug 2020 06:27:13 GMT</lastBuildDate>
+        <description>Today I Leanred</description>
+        <lastBuildDate>Mon, 17 Aug 2020 07:14:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://yadon079.github.io/TIL/feed.atom" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[JAVA |]]></title>
-            <link>https://yadon079.github.io/TIL/Algorithm/BOJ/</link>
-            <guid>https://yadon079.github.io/TIL/Algorithm/BOJ/</guid>
-            <pubDate>Mon, 17 Aug 2020 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JAVA |]]></title>
-            <link>https://yadon079.github.io/TIL/Algorithm/Programmers/</link>
-            <guid>https://yadon079.github.io/TIL/Algorithm/Programmers/</guid>
-            <pubDate>Mon, 17 Aug 2020 15:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[1월의 책 |]]></title>
             <link>https://yadon079.github.io/TIL/Blog/Book-Review/2020y/01-Jan./</link>
@@ -48,6 +36,13 @@
             <description><![CDATA[2020년 2월 회고 입니다.]]></description>
         </item>
         <item>
+            <title><![CDATA[2020년 2분기 회고]]></title>
+            <link>https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/</link>
+            <guid>https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/</guid>
+            <pubDate>Tue, 11 Aug 2020 13:42:00 GMT</pubDate>
+            <description><![CDATA[개발자 황준일의 2020년 2분기 회고입니다.]]></description>
+        </item>
+        <item>
             <title><![CDATA[2020년 3월 회고]]></title>
             <link>https://yadon079.github.io/TIL/Review/2020-year/03-March/</link>
             <guid>https://yadon079.github.io/TIL/Review/2020-year/03-March/</guid>
@@ -60,13 +55,6 @@
             <guid>https://yadon079.github.io/TIL/Review/2020-year/04-April/</guid>
             <pubDate>Fri, 01 May 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[2020년 4월 회고 입니다.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2020년 2분기 회고]]></title>
-            <link>https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/</link>
-            <guid>https://yadon079.github.io/TIL/Review/2020-year/02-Second-Quarter/</guid>
-            <pubDate>Tue, 11 Aug 2020 13:42:00 GMT</pubDate>
-            <description><![CDATA[개발자 황준일의 2020년 2분기 회고입니다.]]></description>
         </item>
         <item>
             <title><![CDATA[2020년 5월 회고]]></title>
