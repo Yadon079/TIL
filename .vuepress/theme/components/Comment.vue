@@ -16,7 +16,7 @@ export default {
       const utterances = document.createElement('script');
       utterances.setAttribute('issue-term', 'pathname');
       utterances.setAttribute('theme', 'github-light');
-      utterances.setAttribute('repo', `junilhwang/blog-comment`);
+      utterances.setAttribute('repo', `yadon079/comment`);
       utterances.type = 'text/javascript';
       utterances.async = true;
       utterances.crossorigin = 'anonymous';
