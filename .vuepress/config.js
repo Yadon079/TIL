@@ -2,7 +2,7 @@ const sidebar = require('./sidebar')
 
 module.exports = {
   title: '개발자 한선우',
-  description: 'Today I leanred',
+  description: 'Today I Leanred',
   themeConfig: {
     logo: '',
     nav: [

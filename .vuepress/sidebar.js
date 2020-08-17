@@ -34,21 +34,6 @@ module.exports = [
     ]
   },
   {
-    title: 'Algorithm',
-    children: [
-      { title: 'BOJ',
-        children: [
-          '1000',
-        ].map(v => `${Boj}/${v}`)
-      },
-      { title: 'Programmers',
-        children: [
-          '직사각형-별찍기',
-      ].map(v => `${Prog}/${v}`)
-      }
-    ]
-  },
-  {
     title: 'Blog',
     children: [
       {
