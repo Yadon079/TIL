@@ -35,7 +35,7 @@ module.exports = [
     title: 'Algorithm',
     children: [
       { title: 'BOJ', path: `${Algo}/BOJ/` },
-      { title: 'Programmers' path: `${Algo}/Programmers/` }
+      { title: 'Programmers', path: `${Algo}/Programmers/` }
     ]
   },
   {
