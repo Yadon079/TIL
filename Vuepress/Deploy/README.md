@@ -9,7 +9,7 @@ feed:
 
 ---
 
-# github page에 배포하기 
+# github page에 배포하기
 
 Vuepress로 만든 문서를 github page에 배포하는 방법에 대해 기록한 문서이다.
 
@@ -39,7 +39,7 @@ Vuepress로 만든 문서를 github page에 배포하는 방법에 대해 기록
 ├─ node_modules
 ├─ package.json
 ├─ .vuepress
-└─ deploy.sh 
+└─ deploy.sh
 ```
 
 일단 `package.json`의 `npm scripts`는 아래 처럼 작성해야 한다.
@@ -63,10 +63,10 @@ Vuepress로 만든 문서를 github page에 배포하는 방법에 대해 기록
 # 오류 발생시 중단한다.
 set -e
 
-# 문서(md)를 build하여 html로 만든다. 
+# 문서(md)를 build하여 html로 만든다.
 yarn docs:build
 
-# build가 output된 폴더로 이동한다. 
+# build가 output된 폴더로 이동한다.
 cd .vuepress/dist
 
 # init + add + commit을 해준 다음
@@ -81,7 +81,7 @@ git commit -m 'deploy'
 # git push -f https://github.com/<USERNAME>/<REPO>.git master:gh-pages
 
 # 필자의 경우 TIL repository에 배포하기 때문에 아래와 같이 작성했다.
-git push -f https://github.com/JunilHwang/TIL.git master:gh-pages
+git push -f https://github.com/Yadon079/TIL.git master:gh-pages
 
 cd -
 ```  
@@ -96,7 +96,7 @@ cd -
 ├─ package.json
 ├─ docs
 │   └─ .vuepress
-└─ deploy.sh 
+└─ deploy.sh
 ```
 
 package.json에서 `vuepress cli`에 `docs`를 붙여야한다.
@@ -120,10 +120,10 @@ package.json에서 `vuepress cli`에 `docs`를 붙여야한다.
 # 오류 발생시 중단한다.
 set -e
 
-# 문서(md)를 build하여 html로 만든다. 
+# 문서(md)를 build하여 html로 만든다.
 yarn docs:build
 
-# build가 output된 폴더로 이동한다. 
+# build가 output된 폴더로 이동한다.
 cd docs/.vuepress/dist
 
 # init + add + commit을 해준 다음
@@ -138,14 +138,14 @@ git commit -m 'deploy'
 # git push -f https://github.com/<USERNAME>/<REPO>.git master:gh-pages
 
 # 필자의 경우 TIL repository에 배포하기 때문에 아래와 같이 작성했다.
-git push -f https://github.com/JunilHwang/TIL.git master:gh-pages
+git push -f https://github.com/Yadon079/TIL.git master:gh-pages
 
 cd -
 ```
 
 물론 위의 두 가지 경우 말고도 다양한 프로젝트 구조가 있을 수 있다.
 
-중요한 것은 **deploy.sh가 정확하게 build된 폴더로 이동하여 github에 push할 수 있어야 한다는 점**이다. 
+중요한 것은 **deploy.sh가 정확하게 build된 폴더로 이동하여 github에 push할 수 있어야 한다는 점**이다.
 
 ## 4. Shell Script 실행하기
 
@@ -183,10 +183,10 @@ sh deploy.sh
 # 오류 발생시 중단한다.
 set -e
 
-# 문서(md)를 build하여 html로 만든다. 
+# 문서(md)를 build하여 html로 만든다.
 yarn docs:build
 
-# build가 output된 폴더로 이동한다. 
+# build가 output된 폴더로 이동한다.
 cd docs/.vuepress/dist
 
 # https://<USERNAME>.github.io 에 배포하는 경우
@@ -223,7 +223,7 @@ sh deploy.sh "커밋 메세지"
 
 `문서 commit + deploy까지 같이 자동화` 하고 싶다면 또 새로운 shell scripts를 작성하면 된다.
 
-파일명은 대충 `commit.sh` 이라고 지었다. 
+파일명은 대충 `commit.sh` 이라고 지었다.
 
 ``` sh
 #!/usr/bin/env sh

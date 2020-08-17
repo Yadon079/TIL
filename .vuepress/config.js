@@ -1,13 +1,13 @@
 const sidebar = require('./sidebar')
 
 module.exports = {
-  title: '개발자 황준일',
+  title: '개발자 한선우',
   description: 'Today I leanred',
   themeConfig: {
-    logo: 'https://avatars1.githubusercontent.com/u/18749057?s=460&v=4',
+    logo: '',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Repository', link: 'https://github.com/junilhwang/TIL/' },
+      { text: 'Repository', link: 'https://github.com/yadon079/TIL/' },
     ],
     sidebar,
     lastUpdated: 'Last Updated',
@@ -26,13 +26,13 @@ module.exports = {
   },
   plugins: [
     ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }],
-    ['feed', { canonical_base: 'https://junilhwang.github.io/TIL/' }],
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': 'UA-113171398-2'
-      }
-    ],
-    ['sitemap', { hostname: 'https://junilhwang.github.io/TIL' }]
+    ['feed', { canonical_base: 'https://yadon079.github.io/TIL/' }],
+    //[
+    //  '@vuepress/google-analytics',
+    //  {
+    //    'ga': 'UA-175495538-1'
+    //  }
+    //],
+    ['sitemap', { hostname: 'https://yadon079.github.io/TIL' }]
   ]
 }

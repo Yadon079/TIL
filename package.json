@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/JunilHwang/TIL",
-  "author": "junil-hwang <tjsdlf4261@naver.com>",
+  "author": "sunwoo-han <thankowl777@kakao.com>",
   "scripts": {
     "docs:dev": "vuepress dev",
     "docs:build": "vuepress build",
