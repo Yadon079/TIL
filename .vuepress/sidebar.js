@@ -33,7 +33,10 @@ module.exports = [
   },
   {
     title: 'Algorithm',
-    children: ['BOJ/', 'Programmers/'].map(v => `${Algo}/${v}`)
+    children: [
+      { title: 'BOJ', path: `${Algo}/BOJ/` },
+      { title: 'Programmers' path: `${Algo}/Programmers/` }
+    ]
   },
   {
     title: 'Blog',
